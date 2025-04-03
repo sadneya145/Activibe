@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15128894708",
+    "project_id": "activibe-76668",
+    "storage_bucket": "activibe-76668.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15128894708:android:39f70d4f9568398d8712a1",
+        "android_client_info": {
+          "package_name": "com.example.activibe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcbHZKNFhRsmlD1vkRwT0nlaVyEY45vEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
